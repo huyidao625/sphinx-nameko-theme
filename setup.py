@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-    name='sphinx-nameko-theme',
+    name='sphinx-nameko-theme-cn',
     version='0.0.3',
-    author='onefinestay',
-    author_email='nameko-devs@onefinestay.com',
-    description='Sphinx Nameko Theme',
-    url='https://github.com/onefinestay/sphinx-nameko-theme',
+    author='hufei',
+    author_email='hufei625@qq.com',
+    description='Sphinx Nameko Theme Chinese',
+    url='https://github.com/huyidao625/sphinx-nameko-theme',
     license='MIT',
     classifiers=[
         'Intended Audience :: Developers',
