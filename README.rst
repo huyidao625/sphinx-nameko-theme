@@ -2,6 +2,8 @@
 Sphinx Nameko Theme
 ===================
 
+为了适应中国网络环境，改为中国镜像地址。原地址为：https://github.com/nameko/sphinx-nameko-theme
+
 Official sphinx theme for `nameko <https://github.com/onefinestay/nameko>`_.
 
 Forked from `Sphinx Readable Theme <https://github.com/ignacysokolowski/sphinx-readable-theme>`_, combined with elements of the `Read The Docs <https://github.com/snide/sphinx_rtd_theme>`_ theme.
@@ -44,6 +46,7 @@ Version 0.0.3
 
 Add colours to admonitions
 Nicer styles for inline literals
+修改google地址为中国的网络地址
 
 Version 0.0.2
 -------------
